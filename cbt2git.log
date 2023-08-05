@@ -1,0 +1,20 @@
+2023-08-06 00:44:44.280077 - Initialized conversion of CBT078
+2023-08-06 00:44:44.485927 - Received CBT.V505.FILE078.PDS from FILE078.XMI 
+2023-08-06 00:44:44.488265 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/$$$#DATE
+2023-08-06 00:44:44.489384 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/$$$DOC
+2023-08-06 00:44:44.490394 - Found $CHANGLG.txt (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/$CHANGLG
+2023-08-06 00:44:44.491264 - Found $README.txt (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/$README
+2023-08-06 00:44:44.492313 - Found $WARRANT.txt (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/$WARRANT
+2023-08-06 00:44:44.493260 - Found #EBUPDTE.jcl (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/#EBUPDTE
+2023-08-06 00:44:44.494150 - Found #PDSLOAD.jcl (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/#PDSLOAD
+2023-08-06 00:44:44.495098 - Found @FILE078.txt (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/@FILE078
+2023-08-06 00:44:44.495969 - Found @INFO.txt (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/@INFO
+2023-08-06 00:44:44.496885 - Found CLISTS.txt (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/CLISTS
+2023-08-06 00:44:44.497833 - Found ISPCMDS.txt (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/ISPCMDS
+2023-08-06 00:44:44.498698 - Found MESSAGES.txt (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/MESSAGES
+2023-08-06 00:44:44.499625 - Found MVS.txt (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/MVS
+2023-08-06 00:44:44.500561 - Found PANELS.txt (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/PANELS
+2023-08-06 00:44:44.501537 - Found REXX.txt (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/REXX
+2023-08-06 00:44:44.502423 - Found SKELETNS.txt (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/SKELETNS
+2023-08-06 00:44:44.503384 - Found SPFPC.txt (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/SPFPC
+2023-08-06 00:44:44.504288 - Found TSURX.rexx (text/plain) in CBT.V505.FILE078.PDS, moved to PDS/TSURX
